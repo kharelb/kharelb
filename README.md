@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🕵️ I’m a physics graduate student at West Virginia University.
+- 🌱 My interests lie in machine leaning, AI, data science and software development.
+- 🔭 I am working in implementing machine learning in radio astronomical data.
+- 👯 I’m looking to collaborate on any ML, AI projects.
+- 📫 How to reach me: email[bikash.kharel2019@gmail.com], LinkdIn[https://www.linkedin.com/in/bikash-kharel-1a9289206/]
+- 😄 Pronouns: he/him/his
+  
